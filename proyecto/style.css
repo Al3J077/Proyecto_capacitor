@@ -1,0 +1,35 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  background: #121212;
+  color: white;
+  padding: 2rem;
+}
+
+h1, h2 {
+  margin-bottom: 1rem;
+}
+
+.emociones button {
+  font-size: 2rem;
+  margin: 0.5rem;
+  padding: 1rem;
+  border: none;
+  border-radius: 1rem;
+  cursor: pointer;
+  background-color: #1f1f1f;
+}
+
+.emociones button:hover {
+  background-color: #333;
+}
+
+#frase {
+  margin-top: 1.5rem;
+  font-style: italic;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
